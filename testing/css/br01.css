@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+.wrap-box{
+  width:300px;
+  height:200px;
+  margin:0 auto;
+}
+
+p{
+  color:green;
+}
